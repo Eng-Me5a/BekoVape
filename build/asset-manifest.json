@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddf734f0.css",
+    "main.js": "/static/js/main.de948f9c.js",
+    "static/media/vape-logo.png": "/static/media/vape-logo.53e83be2178f04fd5024.png",
+    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/index.html",
+    "main.ddf734f0.css.map": "/static/css/main.ddf734f0.css.map",
+    "main.de948f9c.js.map": "/static/js/main.de948f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddf734f0.css",
+    "static/js/main.de948f9c.js"
+  ]
+}
