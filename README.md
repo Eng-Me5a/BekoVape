@@ -1,26 +1,37 @@
-# educational project - React Pizza v2
+🚬 Beko Vape Store v1
+Beko Vape Store هو متجر إلكتروني متكامل لمنتجات الـ فيب، مصمم باستخدام تقنيات حديثة لتوفير تجربة مستخدم سلسة واحترافية.
+يضم المتجر مجموعة متنوعة من الأجهزة والسوائل والملحقات الخاصة بالفيب، ويحتوي على لوحة تحكم للإدارة لتتبع الطلبات والتحكم بالمحتوى.
 
-An educational project: online pizza store, created based on the youtube course
+🧭 صفحات الموقع:
+🏠 الصفحة الرئيسية لعرض المنتجات
 
-The application contains three pages:
+📦 صفحة المنتجات (Vapes, Pods, E-liquids, Coils)
 
-- main page with pizzas;
-- product page;
-- cart page;
-- not-found page.
+🛒 صفحة السلة (Cart)
 
-The main topics of study in the project is React, React hooks, Redux Toolkit, React Router v6, TypeScript.
+💳 صفحة الدفع (Checkout)
 
-## Links
+🔐 صفحة تسجيل دخول الإدارة (Admin Login)
 
-- Live Site URL: [React Pizza v2](https://react-pizza-store-bychewbakka.vercel.app/)
+🧑‍💼 لوحة تحكم الإدارة (Admin Dashboard)
 
-## Built with
+❌ صفحة 404 عند عدم العثور على المحتوى
 
-- JavaScript
-- React
-- React hooks
-- redux toolkit
-- localStorage
-- router-dom v6
-- typeScript
+💻 التقنيات المستخدمة:
+React.js
+
+TypeScript
+
+Redux Toolkit
+
+React Router v6
+
+SCSS
+
+JWT Authentication
+
+localStorage لحفظ بيانات الجلسة
+
+🌍 رابط المتجر:
+🔗 beko-vape.vercel.app
+
